@@ -1,0 +1,2264 @@
+canonical_identifier: bkk:krp/KR6j0703/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0703/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞嚴經述旨
+  identifiers:
+    krp: KR6j0703
+    cbeta: X14n0295
+    cbeta_old_id: X14n0295
+    authorityid: CA0001985
+    json_key: X0295
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X14/X14n0295.xml
+    old_id: X14n0295
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0703_000-X.yaml, hash: 'sha256:1c83a6f920b5415435959d28485f4643045a989aa37ddb6194736a86a862c689'}
+  - {seq: 1, filename: KR6j0703_001-X.yaml, hash: 'sha256:42b982f8eac73be1e248fb12cb0b741052c6f29f6a61a490e456f1137173c98d'}
+  - {seq: 2, filename: KR6j0703_002-X.yaml, hash: 'sha256:ac49c47b6c63634d9ea6f5d9c8c5d54d14f0f9b8474343224dc288cf4ebca927'}
+  - {seq: 3, filename: KR6j0703_003-X.yaml, hash: 'sha256:2e2cdb31abc4da188d7ce238e4c4915eb33671aefb39f0d4bc4169baa35fd787'}
+  - {seq: 4, filename: KR6j0703_004-X.yaml, hash: 'sha256:33d8e5248a7fb0f7178b1fb08a50b9219ce185398121f0aa55f8b33d04fae43f'}
+  - {seq: 5, filename: KR6j0703_005-X.yaml, hash: 'sha256:97c689e068060664af29fff81b59c2d6816d5d03220dbec0df498acf7ed13009'}
+  - {seq: 6, filename: KR6j0703_006-X.yaml, hash: 'sha256:11a1c7dab6f175379b31388c0e5f8a4eb41ff7bb9c04a2e8741667396cda1643'}
+  - {seq: 7, filename: KR6j0703_007-X.yaml, hash: 'sha256:968e23309344761581c46d2291bedfe1df2ceeb944daa857f4de6868d4cc6183'}
+  - {seq: 8, filename: KR6j0703_008-X.yaml, hash: 'sha256:75663ba1f07712ddfe37a954d4b7b68cd73aa511a0971474fa49326e3737b017'}
+  - {seq: 9, filename: KR6j0703_009-X.yaml, hash: 'sha256:af4b3ae91cf633d0525faf5f3e2cc6606f38be2730a43de3fc0aabc6fa87580f'}
+  - {seq: 10, filename: KR6j0703_010-X.yaml, hash: 'sha256:998b2ad25a8d0467dab5bdc7200dd54c69a14616372864c4dc395a296a45febd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0703_000-X.markers.yaml, hash: 'sha256:242193388a841cf4b793bad240792479d1f14747ad65df9748538245b3aa29a2'}
+  - {seq: 1, role: markers, filename: assets/KR6j0703_001-X.markers.yaml, hash: 'sha256:70ea431d792b8a96a69a0b07865e000c6b988fd1c603f3f59da0d8e05df4c364'}
+  - {seq: 2, role: markers, filename: assets/KR6j0703_002-X.markers.yaml, hash: 'sha256:44c83476fd4a3bc6cde10914f53d7f19bbe24d87aee8f2fbc84e3d3f50eb0aed'}
+  - {seq: 3, role: markers, filename: assets/KR6j0703_003-X.markers.yaml, hash: 'sha256:b76ce5e10aa43e198db02432624b72bcc2941d9b0c564bc3b5f46c970469f9b0'}
+  - {seq: 4, role: markers, filename: assets/KR6j0703_004-X.markers.yaml, hash: 'sha256:30ea6232e7abfb369195c17679808b8f1f349c61f05ccdd52b9206efc99090ff'}
+  - {seq: 5, role: markers, filename: assets/KR6j0703_005-X.markers.yaml, hash: 'sha256:61254e16773a760d1825d1d8322b42b450ae15e1de1b4d47d7fc6bd09ed5bed1'}
+  - {seq: 6, role: markers, filename: assets/KR6j0703_006-X.markers.yaml, hash: 'sha256:4415493a6bdc63bf9fa2d1121bafb2bcff3c01caad87e7d6f167d3552b04ac33'}
+  - {seq: 7, role: markers, filename: assets/KR6j0703_007-X.markers.yaml, hash: 'sha256:434ed3c99d8ff1dd3c3d381152b32d586ea82a3acd45f93cedf64e4bf2346de0'}
+  - {seq: 8, role: markers, filename: assets/KR6j0703_008-X.markers.yaml, hash: 'sha256:b7cb5fccae7ad168b647b537857da3611fe9b89c20c1eccaa87d5612f28fce70'}
+  - {seq: 9, role: markers, filename: assets/KR6j0703_009-X.markers.yaml, hash: 'sha256:9308bbd0be64fec1e0fd3244e9395fad2a49173df709f0a110746f463cd058e8'}
+  - {seq: 10, role: markers, filename: assets/KR6j0703_010-X.markers.yaml, hash: 'sha256:5636c40f61e4aa41114e174add04e7accdf991f4ee4a0c244274f19a09c10549'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0703_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 295-A 勸持敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5195
+  label: 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-1
+    span:
+    - body
+    - 114
+    - 114
+  label: 通釋經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-2
+    span:
+    - body
+    - 430
+    - 430
+  label: 判說經先後
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-3
+    span:
+    - body
+    - 947
+    - 947
+  label: 正宗五分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-4
+    span:
+    - body
+    - 1363
+    - 1363
+  label: 正文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-5
+    span:
+    - body
+    - 1897
+    - 1897
+  label: 徵心品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-6
+    span:
+    - body
+    - 1902
+    - 1902
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-7
+    span:
+    - body
+    - 2177
+    - 2177
+  label: 一徵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-8
+    span:
+    - body
+    - 2268
+    - 2268
+  label: 二徵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-9
+    span:
+    - body
+    - 2379
+    - 2379
+  label: 三徵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-10
+    span:
+    - body
+    - 2567
+    - 2567
+  label: 四徵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-11
+    span:
+    - body
+    - 2769
+    - 2769
+  label: 五徵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-12
+    span:
+    - body
+    - 3265
+    - 3265
+  label: 六徵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-13
+    span:
+    - body
+    - 3565
+    - 3565
+  label: 七徵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0703_X_001-mulu-14
+    span:
+    - body
+    - 3844
+    - 3844
+  label: 辯見品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0703_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 7416
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0703_X_002-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 真性常住第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0703_X_002-mulu-2
+    span:
+    - body
+    - 3215
+    - 3215
+  label: 分別外道品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0703_X_002-mulu-3
+    span:
+    - body
+    - 4240
+    - 4240
+  label: 見妄品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0703_X_002-mulu-4
+    span:
+    - body
+    - 5293
+    - 5293
+  label: 覺非和合品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0703_X_002-mulu-5
+    span:
+    - body
+    - 5958
+    - 5958
+  label: 顯示藏性第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0703_X_002-mulu-6
+    span:
+    - body
+    - 5964
+    - 5964
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0703_X_002-mulu-7
+    span:
+    - body
+    - 6257
+    - 6257
+  label: 五陰
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 8510
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-1
+    span:
+    - body
+    - 27
+    - 27
+  label: 六入
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-2
+    span:
+    - body
+    - 1265
+    - 1265
+  label: 十二處
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-3
+    span:
+    - body
+    - 2416
+    - 2416
+  label: 十八界
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-4
+    span:
+    - body
+    - 2419
+    - 2419
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-5
+    span:
+    - body
+    - 2472
+    - 2472
+  label: 一眼色界
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-6
+    span:
+    - body
+    - 2784
+    - 2784
+  label: 二耳聲界
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-7
+    span:
+    - body
+    - 3123
+    - 3123
+  label: 三鼻香界
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-8
+    span:
+    - body
+    - 3448
+    - 3448
+  label: 四舌味界
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-9
+    span:
+    - body
+    - 3658
+    - 3658
+  label: 五身觸界
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-10
+    span:
+    - body
+    - 3870
+    - 3870
+  label: 六意法界
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-11
+    span:
+    - body
+    - 4296
+    - 4296
+  label: 七大
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-12
+    span:
+    - body
+    - 4298
+    - 4298
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-13
+    span:
+    - body
+    - 4672
+    - 4672
+  label: 一地大
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-14
+    span:
+    - body
+    - 5139
+    - 5139
+  label: 二火大
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-15
+    span:
+    - body
+    - 5459
+    - 5459
+  label: 三水大
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-16
+    span:
+    - body
+    - 5759
+    - 5759
+  label: 四風大
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-17
+    span:
+    - body
+    - 6084
+    - 6084
+  label: 五空大
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-18
+    span:
+    - body
+    - 6571
+    - 6571
+  label: 六見大
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-19
+    span:
+    - body
+    - 7026
+    - 7026
+  label: 七識大
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0703_X_003-mulu-20
+    span:
+    - body
+    - 7760
+    - 7760
+  label: 造悟讚謝第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0703_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 9368
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    卷第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0703_X_004-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 深窮萬法第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0703_X_004-mulu-2
+    span:
+    - body
+    - 1482
+    - 1482
+  label: 三種相續第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0703_X_004-mulu-3
+    span:
+    - body
+    - 4480
+    - 4480
+  label: 請窮妄因第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0703_X_004-mulu-4
+    span:
+    - body
+    - 4926
+    - 4926
+  label: 外道因緣自然疑辯品第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0703_X_004-mulu-5
+    span:
+    - body
+    - 5376
+    - 5376
+  label: 訶責戲論品第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0703_X_004-mulu-6
+    span:
+    - body
+    - 5761
+    - 5761
+  label: 決定二義品第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0703_X_004-mulu-7
+    span:
+    - body
+    - 7513
+    - 7513
+  label: 圓六湛品第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0703_X_004-mulu-8
+    span:
+    - body
+    - 8650
+    - 8650
+  label: 究竟修因品第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0703_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 2672
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    卷第五'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0703_X_005-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 見結知解第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0703_X_005-mulu-2
+    span:
+    - body
+    - 149
+    - 149
+  label: 宣義說偈第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0703_X_005-mulu-3
+    span:
+    - body
+    - 741
+    - 741
+  label: 綰巾示結第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0703_X_005-mulu-4
+    span:
+    - body
+    - 905
+    - 905
+  label: 選擇圓通第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0703_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 5642
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    卷第六'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0703_X_006-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 特表耳根第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0703_X_006-mulu-2
+    span:
+    - body
+    - 3078
+    - 3078
+  label: 文殊說偈第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0703_X_006-mulu-3
+    span:
+    - body
+    - 5459
+    - 5459
+  label: 決定清淨明誨第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 2648
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    卷第七'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 攝持軌則第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-2
+    span:
+    - body
+    - 526
+    - 526
+  label: 修證三摩第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-3
+    span:
+    - body
+    - 534
+    - 534
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-4
+    span:
+    - body
+    - 1206
+    - 1206
+  label: 一卵生
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-5
+    span:
+    - body
+    - 1297
+    - 1297
+  label: 二胎生
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-6
+    span:
+    - body
+    - 1390
+    - 1390
+  label: 三濕生
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-7
+    span:
+    - body
+    - 1515
+    - 1515
+  label: 四化生
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-8
+    span:
+    - body
+    - 1760
+    - 1760
+  label: 五有色
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-9
+    span:
+    - body
+    - 1837
+    - 1837
+  label: 六無色
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-10
+    span:
+    - body
+    - 1939
+    - 1939
+  label: 七有想
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-11
+    span:
+    - body
+    - 2012
+    - 2012
+  label: 八無想
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-12
+    span:
+    - body
+    - 2197
+    - 2197
+  label: 九非有色
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-13
+    span:
+    - body
+    - 2274
+    - 2274
+  label: 十非無色
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-14
+    span:
+    - body
+    - 2333
+    - 2333
+  label: 十一非有想
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0703_X_007-mulu-15
+    span:
+    - body
+    - 2387
+    - 2387
+  label: 十二非無想
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 6596
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    卷第八'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 三種修行漸次第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-2
+    span:
+    - body
+    - 387
+    - 387
+  label: 增歷聖位第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-3
+    span:
+    - body
+    - 395
+    - 395
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-4
+    span:
+    - body
+    - 679
+    - 679
+  label: 十信心
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-5
+    span:
+    - body
+    - 712
+    - 712
+  label: 一信心住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-6
+    span:
+    - body
+    - 970
+    - 970
+  label: 二念心住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-7
+    span:
+    - body
+    - 1015
+    - 1015
+  label: 三精進心
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-8
+    span:
+    - body
+    - 1066
+    - 1066
+  label: 四慧心住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-9
+    span:
+    - body
+    - 1082
+    - 1082
+  label: 五定心住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-10
+    span:
+    - body
+    - 1102
+    - 1102
+  label: 六不退心
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-11
+    span:
+    - body
+    - 1122
+    - 1122
+  label: 七護法心
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-12
+    span:
+    - body
+    - 1146
+    - 1146
+  label: 八迴向心
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-13
+    span:
+    - body
+    - 1209
+    - 1209
+  label: 九戒心住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-14
+    span:
+    - body
+    - 1311
+    - 1311
+  label: 十願心住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-15
+    span:
+    - body
+    - 1464
+    - 1464
+  label: 十住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-16
+    span:
+    - body
+    - 1466
+    - 1466
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-17
+    span:
+    - body
+    - 1486
+    - 1486
+  label: 一發心住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-18
+    span:
+    - body
+    - 1608
+    - 1608
+  label: 二治地住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-19
+    span:
+    - body
+    - 1669
+    - 1669
+  label: 三修行住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-20
+    span:
+    - body
+    - 1717
+    - 1717
+  label: 四生貴住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-21
+    span:
+    - body
+    - 1795
+    - 1795
+  label: 五方便具足住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-22
+    span:
+    - body
+    - 1841
+    - 1841
+  label: 六正心住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-23
+    span:
+    - body
+    - 1857
+    - 1857
+  label: 七不退住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-24
+    span:
+    - body
+    - 1873
+    - 1873
+  label: 八童真住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-25
+    span:
+    - body
+    - 1934
+    - 1934
+  label: 九法王子住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-26
+    span:
+    - body
+    - 1952
+    - 1952
+  label: 十灌頂住
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-27
+    span:
+    - body
+    - 2086
+    - 2086
+  label: 十行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-28
+    span:
+    - body
+    - 2088
+    - 2088
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-29
+    span:
+    - body
+    - 2113
+    - 2113
+  label: 一歡喜行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-30
+    span:
+    - body
+    - 2136
+    - 2136
+  label: 二饒益行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-31
+    span:
+    - body
+    - 2152
+    - 2152
+  label: 三無嗔行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-32
+    span:
+    - body
+    - 2169
+    - 2169
+  label: 四無盡行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-33
+    span:
+    - body
+    - 2213
+    - 2213
+  label: 五離癡亂行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-34
+    span:
+    - body
+    - 2257
+    - 2257
+  label: 六善現行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-35
+    span:
+    - body
+    - 2301
+    - 2301
+  label: 七無着行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-36
+    span:
+    - body
+    - 2347
+    - 2347
+  label: 八尊重行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-37
+    span:
+    - body
+    - 2397
+    - 2397
+  label: 九善法行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-38
+    span:
+    - body
+    - 2417
+    - 2417
+  label: 十真實行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-39
+    span:
+    - body
+    - 2503
+    - 2503
+  label: 十迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-40
+    span:
+    - body
+    - 2506
+    - 2506
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-41
+    span:
+    - body
+    - 2554
+    - 2554
+  label: 一救護眾生離眾生相迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-42
+    span:
+    - body
+    - 2666
+    - 2666
+  label: 二不壞迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-43
+    span:
+    - body
+    - 2724
+    - 2724
+  label: 三等一切佛迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-44
+    span:
+    - body
+    - 2759
+    - 2759
+  label: 四至一切處迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-45
+    span:
+    - body
+    - 2802
+    - 2802
+  label: 五無盡藏功德迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-46
+    span:
+    - body
+    - 2850
+    - 2850
+  label: 六隨順平等善根迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-47
+    span:
+    - body
+    - 2903
+    - 2903
+  label: 七隨順等觀眾生迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-48
+    span:
+    - body
+    - 2975
+    - 2975
+  label: 八真如相迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-49
+    span:
+    - body
+    - 3009
+    - 3009
+  label: 九無縛解脫迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-50
+    span:
+    - body
+    - 3031
+    - 3031
+  label: 十法界無量迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-51
+    span:
+    - body
+    - 3097
+    - 3097
+  label: 四加行
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-52
+    span:
+    - body
+    - 3100
+    - 3100
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-53
+    span:
+    - body
+    - 3208
+    - 3208
+  label: 一煖地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-54
+    span:
+    - body
+    - 3341
+    - 3341
+  label: 二頂地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-55
+    span:
+    - body
+    - 3407
+    - 3407
+  label: 三忍地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-56
+    span:
+    - body
+    - 3496
+    - 3496
+  label: 四世第一地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-57
+    span:
+    - body
+    - 3559
+    - 3559
+  label: 十地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-58
+    span:
+    - body
+    - 3561
+    - 3561
+  label: 一歡喜地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-59
+    span:
+    - body
+    - 3609
+    - 3609
+  label: 二離垢地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-60
+    span:
+    - body
+    - 3665
+    - 3665
+  label: 三發光地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-61
+    span:
+    - body
+    - 3677
+    - 3677
+  label: 四焰慧地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-62
+    span:
+    - body
+    - 3705
+    - 3705
+  label: 五難勝地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-63
+    span:
+    - body
+    - 3759
+    - 3759
+  label: 六現前地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-64
+    span:
+    - body
+    - 3788
+    - 3788
+  label: 七遠行地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-65
+    span:
+    - body
+    - 3820
+    - 3820
+  label: 八不動地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-66
+    span:
+    - body
+    - 3841
+    - 3841
+  label: 九善慧地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-67
+    span:
+    - body
+    - 3926
+    - 3926
+  label: 十法雲地
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-68
+    span:
+    - body
+    - 4838
+    - 4838
+  label: 精研七趣品第二十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-69
+    span:
+    - body
+    - 4847
+    - 4847
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-70
+    span:
+    - body
+    - 4924
+    - 4924
+  label: 獄趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-71
+    span:
+    - body
+    - 4926
+    - 4926
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-72
+    span:
+    - body
+    - 5377
+    - 5377
+  label: 十因
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-73
+    span:
+    - body
+    - 5997
+    - 5997
+  label: 六報
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-74
+    span:
+    - body
+    - 6032
+    - 6032
+  label: 極重
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-75
+    span:
+    - body
+    - 6054
+    - 6054
+  label: 次重即八熱獄
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-76
+    span:
+    - body
+    - 6196
+    - 6196
+  label: 稍輕
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-77
+    span:
+    - body
+    - 6215
+    - 6215
+  label: 次輕
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-78
+    span:
+    - body
+    - 6274
+    - 6274
+  label: 鬼趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-79
+    span:
+    - body
+    - 6356
+    - 6356
+  label: 畜生趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-80
+    span:
+    - body
+    - 6518
+    - 6518
+  label: 人趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0703_X_008-mulu-81
+    span:
+    - body
+    - 6575
+    - 6575
+  label: 仙趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 5175
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    卷第九'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 天趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-2
+    span:
+    - body
+    - 26
+    - 26
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-3
+    span:
+    - body
+    - 122
+    - 122
+  label: 欲界六天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-4
+    span:
+    - body
+    - 149
+    - 149
+  label: 四天王天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-5
+    span:
+    - body
+    - 278
+    - 278
+  label: 忉利天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-6
+    span:
+    - body
+    - 351
+    - 351
+  label: 須𦦨摩天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-7
+    span:
+    - body
+    - 415
+    - 415
+  label: 兜率陀天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-8
+    span:
+    - body
+    - 472
+    - 472
+  label: 樂變化天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-9
+    span:
+    - body
+    - 518
+    - 518
+  label: 他化自在天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-10
+    span:
+    - body
+    - 591
+    - 591
+  label: 色界十八天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-11
+    span:
+    - body
+    - 612
+    - 612
+  label: 初禪三天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-12
+    span:
+    - body
+    - 884
+    - 884
+  label: 二禪三天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-13
+    span:
+    - body
+    - 1135
+    - 1135
+  label: 三禪三天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-14
+    span:
+    - body
+    - 1357
+    - 1357
+  label: 四禪九天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-15
+    span:
+    - body
+    - 1386
+    - 1386
+  label: 四根本天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-16
+    span:
+    - body
+    - 1875
+    - 1875
+  label: 五不還天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-17
+    span:
+    - body
+    - 2262
+    - 2262
+  label: 無色界四天
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-18
+    span:
+    - body
+    - 2328
+    - 2328
+  label: 分岐超出
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-19
+    span:
+    - body
+    - 2437
+    - 2437
+  label: 隨定趣入
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-20
+    span:
+    - body
+    - 3019
+    - 3019
+  label: 修羅趣
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-21
+    span:
+    - body
+    - 3174
+    - 3174
+  label: 詳辨魔境第二十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-22
+    span:
+    - body
+    - 3182
+    - 3182
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-23
+    span:
+    - body
+    - 3426
+    - 3426
+  label: 破五陰現境
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-24
+    span:
+    - body
+    - 3431
+    - 3431
+  label: 一色陰
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-25
+    span:
+    - body
+    - 3434
+    - 3434
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-26
+    span:
+    - body
+    - 3589
+    - 3589
+  label: 色陰現境
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-27
+    span:
+    - body
+    - 3710
+    - 3710
+  label: 二受陰
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-28
+    span:
+    - body
+    - 3713
+    - 3713
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-29
+    span:
+    - body
+    - 3948
+    - 3948
+  label: 受陰現境
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-30
+    span:
+    - body
+    - 4827
+    - 4827
+  label: 三想陰
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-31
+    span:
+    - body
+    - 4830
+    - 4830
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0703_X_009-mulu-32
+    span:
+    - body
+    - 5055
+    - 5055
+  label: 想陰現境
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 4575
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    卷第十'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 四行陰
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-2
+    span:
+    - body
+    - 23
+    - 23
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-3
+    span:
+    - body
+    - 343
+    - 343
+  label: 二無因論
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-4
+    span:
+    - body
+    - 533
+    - 533
+  label: 二徧常論
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-5
+    span:
+    - body
+    - 914
+    - 914
+  label: 三四顛倒見
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-6
+    span:
+    - body
+    - 1125
+    - 1125
+  label: 四有邊論
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-7
+    span:
+    - body
+    - 1289
+    - 1289
+  label: 五矯亂論
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-8
+    span:
+    - body
+    - 1402
+    - 1402
+  label: 六計後有
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-9
+    span:
+    - body
+    - 1560
+    - 1560
+  label: 七計後無
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-10
+    span:
+    - body
+    - 1646
+    - 1646
+  label: 八計八但非
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-11
+    span:
+    - body
+    - 1833
+    - 1833
+  label: 九計斷滅
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-12
+    span:
+    - body
+    - 1972
+    - 1972
+  label: 十計涅槃
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-13
+    span:
+    - body
+    - 2098
+    - 2098
+  label: 五識陰
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-14
+    span:
+    - body
+    - 2101
+    - 2101
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-15
+    span:
+    - body
+    - 2492
+    - 2492
+  label: 識陰狂解
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-16
+    span:
+    - body
+    - 3853
+    - 3853
+  label: 最後請益第三十
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-17
+    span:
+    - body
+    - 3864
+    - 3864
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-18
+    span:
+    - body
+    - 3916
+    - 3916
+  label: 五陰妄本
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-19
+    span:
+    - body
+    - 3920
+    - 3920
+  label: 一色本堅固
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-20
+    span:
+    - body
+    - 4034
+    - 4034
+  label: 二受本虗明
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-21
+    span:
+    - body
+    - 4089
+    - 4089
+  label: 三想本融通
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-22
+    span:
+    - body
+    - 4177
+    - 4177
+  label: 四行本幽隱
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-23
+    span:
+    - body
+    - 4199
+    - 4199
+  label: 五識本罔象
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-24
+    span:
+    - body
+    - 4303
+    - 4303
+  label: 五陰邊際
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0703_X_010-mulu-25
+    span:
+    - body
+    - 4341
+    - 4341
+  label: 陰滅次第
+  type: mulu
+  level: 1
+hash: sha256:bf69e9b61a719b8e34bb9ddfa6e20b9bb73564dafab02a125cbae410007a073b
