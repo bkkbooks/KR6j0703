@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0703_000-X.yaml, hash: 'sha256:1c83a6f920b5415435959d28485f4643045a989aa37ddb6194736a86a862c689'}
+  - {seq: 0, filename: KR6j0703_000-X.yaml, hash: 'sha256:418b319cf79941dfec486914966e6768d699ca17a6632df494ec97fdec42a1e7'}
   - {seq: 1, filename: KR6j0703_001-X.yaml, hash: 'sha256:42b982f8eac73be1e248fb12cb0b741052c6f29f6a61a490e456f1137173c98d'}
   - {seq: 2, filename: KR6j0703_002-X.yaml, hash: 'sha256:ac49c47b6c63634d9ea6f5d9c8c5d54d14f0f9b8474343224dc288cf4ebca927'}
   - {seq: 3, filename: KR6j0703_003-X.yaml, hash: 'sha256:2e2cdb31abc4da188d7ce238e4c4915eb33671aefb39f0d4bc4169baa35fd787'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6j0703_009-X.yaml, hash: 'sha256:af4b3ae91cf633d0525faf5f3e2cc6606f38be2730a43de3fc0aabc6fa87580f'}
   - {seq: 10, filename: KR6j0703_010-X.yaml, hash: 'sha256:998b2ad25a8d0467dab5bdc7200dd54c69a14616372864c4dc395a296a45febd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0703_000-X.markers.yaml, hash: 'sha256:242193388a841cf4b793bad240792479d1f14747ad65df9748538245b3aa29a2'}
+  - {seq: 0, role: markers, filename: assets/KR6j0703_000-X.markers.yaml, hash: 'sha256:d2b8f4f0be341624cab58201d31d249609ed11b26893f467b1724b365bb81f32'}
   - {seq: 1, role: markers, filename: assets/KR6j0703_001-X.markers.yaml, hash: 'sha256:70ea431d792b8a96a69a0b07865e000c6b988fd1c603f3f59da0d8e05df4c364'}
   - {seq: 2, role: markers, filename: assets/KR6j0703_002-X.markers.yaml, hash: 'sha256:44c83476fd4a3bc6cde10914f53d7f19bbe24d87aee8f2fbc84e3d3f50eb0aed'}
   - {seq: 3, role: markers, filename: assets/KR6j0703_003-X.markers.yaml, hash: 'sha256:b76ce5e10aa43e198db02432624b72bcc2941d9b0c564bc3b5f46c970469f9b0'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0703_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 295-A 勸持敘
@@ -2261,4 +2261,4 @@ table_of_contents:
   label: 陰滅次第
   type: mulu
   level: 1
-hash: sha256:bf69e9b61a719b8e34bb9ddfa6e20b9bb73564dafab02a125cbae410007a073b
+hash: sha256:54c3d234d8365b0f20aaa11ce879abcadb6edbc1de81b03d7ec9a91e55123a11
